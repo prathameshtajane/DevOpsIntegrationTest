@@ -1,1 +1,1 @@
-moving this issue to 'In Development' phase via git commit
+Moving this issue to 'In Development' phase via git commit
