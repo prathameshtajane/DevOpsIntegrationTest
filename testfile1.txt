@@ -1,1 +1,1 @@
-Moving this issue to 'In Testing' phase via git commit
+Moving this test issue to 'In Testing' phase via git commit
